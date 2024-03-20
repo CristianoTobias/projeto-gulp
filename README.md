@@ -14,7 +14,7 @@ Clone este repositório para o seu computador:
 
 '''bash
 Copy code
-git clone [https://github.com/cristianotobias/projeto-gulp.git](https://github.com/CristianoTobias/projeto-gulp)'''
+git clone [https://github.com/cristianotobias/projeto-gulp.git](https://github.com/CristianoTobias/projeto-gulp)]'''
 
 Navegue até o diretório do projeto:
 
